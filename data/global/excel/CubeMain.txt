@@ -223,3 +223,4 @@ Token of Absolution	1	1		100					4	tes	ceh	bet	fed				toa																							
 [        ]	1	1		100					2	armo,nor,hiq	gem4						usetype,hiq			100																																																																																				0
 [洗蓝色物品]=2完美宝石	1	1		100					3	"any,mag"	"gem4,qty=2"						"usetype,mag"			100																																																																																				0
 [洗黄色物品]=3完美宝石	1	1		100					4	"any,rar"	"gem4,qty=3"						"usetype,rar"			100																																																																																				0
+[宝石升级]====	1	1		100					2	"gem4,qty=2"							skz																																																																																							0
