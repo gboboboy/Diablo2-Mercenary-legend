@@ -187,6 +187,46 @@ Token of Absolution	1	1		100					4	tes	ceh	bet	fed				toa																							
 [        ]	1	1		100					3	armo,rar,nos	wms	skz					useitem			100	sock			2	2																																																																															0
 [        ]	1	1		100					3	weap,nos	wms	skz					useitem			100	sock			1	1																																																																															0
 [打孔]====	1	1		100					3	armo,nos	wms	skz					useitem			100	sock			1	1																																																																															0
+[        ]	1	1		100					5	armo,rar,nos	wms	skz,qty=3					useitem			100	sock			3	3																																																																															0
+[        ]	1	1		100					6	armo,rar,nos	wms	skz,qty=4					useitem			100	sock			4	4																																																																															0
+[        ]	1	1		100					7	armo,rar,nos	wms	skz,qty=5					useitem			100	sock			5	5																																																																															0
+[        ]	1	1		100					8	armo,rar,nos	wms	skz,qty=6					useitem			100	sock			6	6																																																																															0
+[        ]	1	1		100					5	weap,rar,nos	wms	skz,qty=3					useitem			100	sock			3	3																																																																															0
+[        ]	1	1		100					6	weap,rar,nos	wms	skz,qty=4					useitem			100	sock			4	4																																																																															0
+[        ]	1	1		100					7	weap,rar,nos	wms	skz,qty=5					useitem			100	sock			5	5																																																																															0
+[        ]	1	1		100					8	weap,rar,nos	wms	skz,qty=6					useitem			100	sock			6	6																																																																															0
+[        ]	1	1		100					5	armo,mag,nos	wms	skz,qty=3					useitem			100	sock			3	3																																																																															0
+[        ]	1	1		100					6	armo,mag,nos	wms	skz,qty=4					useitem			100	sock			4	4																																																																															0
+[        ]	1	1		100					7	armo,mag,nos	wms	skz,qty=5					useitem			100	sock			5	5																																																																															0
+[        ]	1	1		100					8	armo,mag,nos	wms	skz,qty=6					useitem			100	sock			6	6																																																																															0
+[        ]	1	1		100					5	weap,mag,nos	wms	skz,qty=3					useitem			100	sock			3	3																																																																															0
+[        ]	1	1		100					6	weap,mag,nos	wms	skz,qty=4					useitem			100	sock			4	4																																																																															0
+[        ]	1	1		100					7	weap,mag,nos	wms	skz,qty=5					useitem			100	sock			5	5																																																																															0
+[        ]	1	1		100					8	weap,mag,nos	wms	skz,qty=6					useitem			100	sock			6	6																																																																															0
+[        ]	1	1		100					5	armo,nor,nos	wms	skz,qty=3					useitem			100	sock			3	3																																																																															0
+[        ]	1	1		100					6	armo,nor,nos	wms	skz,qty=4					useitem			100	sock			4	4																																																																															0
+[        ]	1	1		100					7	armo,nor,nos	wms	skz,qty=5					useitem			100	sock			5	5																																																																															0
+[        ]	1	1		100					8	armo,nor,nos	wms	skz,qty=6					useitem			100	sock			6	6																																																																															0
+[        ]	1	1		100					5	weap,nor,nos	wms	skz,qty=3					useitem			100	sock			3	3																																																																															0
+[        ]	1	1		100					6	weap,nor,nos	wms	skz,qty=4					useitem			100	sock			4	4																																																																															0
+[        ]	1	1		100					7	weap,nor,nos	wms	skz,qty=5					useitem			100	sock			5	5																																																																															0
+[        ]	1	1		100					8	weap,nor,nos	wms	skz,qty=6					useitem			100	sock			6	6																																																																															0
+[        ]	1	1		100					5	armo,hiq,nos	wms	skz,qty=3					useitem			100	sock			3	3																																																																															0
+[        ]	1	1		100					6	armo,hiq,nos	wms	skz,qty=4					useitem			100	sock			4	4																																																																															0
+[        ]	1	1		100					7	armo,hiq,nos	wms	skz,qty=5					useitem			100	sock			5	5																																																																															0
+[        ]	1	1		100					8	armo,hiq,nos	wms	skz,qty=6					useitem			100	sock			6	6																																																																															0
+[        ]	1	1		100					5	weap,hiq,nos	wms	skz,qty=3					useitem			100	sock			3	3																																																																															0
+[        ]	1	1		100					6	weap,hiq,nos	wms	skz,qty=4					useitem			100	sock			4	4																																																																															0
+[        ]	1	1		100					7	weap,hiq,nos	wms	skz,qty=5					useitem			100	sock			5	5																																																																															0
+[        ]	1	1		100					8	weap,hiq,nos	wms	skz,qty=6					useitem			100	sock			6	6																																																																															0
+[        ]	1	1		100					5	armo,nos	wms	skz,qty=3					useitem			100	sock			3	3																																																																															0
+[        ]	1	1		100					6	armo,nos	wms	skz,qty=4					useitem			100	sock			4	4																																																																															0
+[        ]	1	1		100					7	armo,nos	wms	skz,qty=5					useitem			100	sock			5	5																																																																															0
+[        ]	1	1		100					8	armo,nos	wms	skz,qty=6					useitem			100	sock			6	6																																																																															0
+[        ]	1	1		100					5	weap,nos	wms	skz,qty=3					useitem			100	sock			3	3																																																																															0
+[        ]	1	1		100					6	weap,nos	wms	skz,qty=4					useitem			100	sock			4	4																																																																															0
+[        ]	1	1		100					7	weap,nos	wms	skz,qty=5					useitem			100	sock			5	5																																																																															0
+[        ]	1	1		100					8	weap,nos	wms	skz,qty=6					useitem			100	sock			6	6																																																																															0
 [洗饰品属性]=同类饰品x2	1	1		100					2	"rin,mag,qty=2"							"rin,mag"			125																																																																																				0
 [        ]	1	1		100					2	"amu,mag,qty=2"							"amu,mag"			125																																																																																				0
 [        ]	1	1		100					2	rin,rar,qty=2							rin,rar			125																																																																																				0
